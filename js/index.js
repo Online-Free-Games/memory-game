@@ -116,7 +116,7 @@
         document.getElementById('fail').play();
 
     }
-    if(triesElement.innerHTML ==10){
+    if(triesElement.innerHTML ==20){
         document.getElementById('abn').play();  
         console.log("ttaaa")
         Swal.fire({
